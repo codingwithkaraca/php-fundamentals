@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="97ebd5d5-9a91-4478-abba-5f7e463a2cbe" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/opt/homebrew/Cellar/php/8.3.3/bin/php" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2cgXNXz4S3y9BWpX801GDrEHwIA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript Debug.index.php.executor": "Run",
+    "PHP Script.baglanti.php.executor": "Run",
+    "PHP Script.degiskenler.php.executor": "Run",
+    "PHP Script.dizi.php.executor": "Run",
+    "PHP Script.fonksiyon.php.executor": "Run",
+    "PHP Script.form.php.executor": "Run",
+    "PHP Script.format.php.executor": "Run",
+    "PHP Script.index.php (1).executor": "Run",
+    "PHP Script.index.php (2).executor": "Run",
+    "PHP Script.index.php (3).executor": "Run",
+    "PHP Script.index.php.executor": "Run",
+    "PHP Script.isset_unset_empty.php.executor": "Run",
+    "PHP Script.map.php.executor": "Run",
+    "PHP Script.php_json.php.executor": "Run",
+    "PHP Script.rastgele-yirmi-sayi.php.executor": "Run",
+    "PHP Script.selamal.php.executor": "Run",
+    "PHP Script.sifirdan-yuze.php.executor": "Run",
+    "PHP Script.strict.php.executor": "Run",
+    "PHP Script.tam-bolenler.php.executor": "Run",
+    "PHP Script.tarih.php.executor": "Run",
+    "PHP Script.throw.php.executor": "Run",
+    "PHP Script.try-catch.php.executor": "Run",
+    "PHP Script.while.php.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/alperkaraca/phpdersleri",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/form" />
+      <recent name="$PROJECT_DIR$/temel" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Script.try-catch.php">
+    <configuration name="format.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/advanced/format.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="map.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/advanced/map.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="php_json.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/advanced/php_json.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="throw.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/exceptions/throw.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="try-catch.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/exceptions/try-catch.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.try-catch.php" />
+        <item itemvalue="PHP Script.throw.php" />
+        <item itemvalue="PHP Script.php_json.php" />
+        <item itemvalue="PHP Script.format.php" />
+        <item itemvalue="PHP Script.map.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-php-predefined-ba97393d7c68-6f8e3395a2b4-com.jetbrains.php.sharedIndexes-PS-233.15026.12" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97ebd5d5-9a91-4478-abba-5f7e463a2cbe" name="Changes" comment="" />
+      <created>1708534155462</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708534155462</updated>
+      <workItem from="1708534156504" duration="797000" />
+      <workItem from="1708717299276" duration="134000" />
+      <workItem from="1708717941303" duration="5016000" />
+      <workItem from="1708765555547" duration="315000" />
+      <workItem from="1708765897206" duration="4557000" />
+      <workItem from="1708792073369" duration="1327000" />
+      <workItem from="1708854295384" duration="7678000" />
+      <workItem from="1708958681694" duration="5263000" />
+      <workItem from="1709290366811" duration="4906000" />
+      <workItem from="1709305889409" duration="882000" />
+      <workItem from="1709398502288" duration="8751000" />
+      <workItem from="1709487351712" duration="6668000" />
+      <workItem from="1709632907043" duration="1206000" />
+      <workItem from="1709896464443" duration="1351000" />
+      <workItem from="1710353964455" duration="1576000" />
+      <workItem from="1710503028094" duration="2320000" />
+      <workItem from="1710517040045" duration="1570000" />
+      <workItem from="1710837310938" duration="4717000" />
+      <workItem from="1710846599742" duration="1364000" />
+      <workItem from="1710859605768" duration="2120000" />
+      <workItem from="1711106414797" duration="2366000" />
+      <workItem from="1711368949009" duration="5010000" />
+      <workItem from="1711380470894" duration="635000" />
+      <workItem from="1713458582978" duration="6000" />
+      <workItem from="1713458628159" duration="5000" />
+      <workItem from="1713458682973" duration="186000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
